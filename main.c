@@ -38,6 +38,15 @@ entradas: um numero inteiros
 saidas: cubo da entrada
 */
 
+/*Exemplo
+entradas: dois numeros
+saidas: media dos numeros
+*/
+
+float media(float num1, float num2){
+    return (num1+num2)/2;
+}
+
 int main(){
 
     return 0;
