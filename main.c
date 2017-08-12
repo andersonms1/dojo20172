@@ -13,7 +13,11 @@ Wellingthon Diego Resende de Lima
 entradas: dois numeros inteiros
 saidas: subtração do primeiro pelo segundo
 */
-
+int subtracao(int num1,int num2){
+	int result;
+	result = num1 - num2;
+	return	result;
+}
 /*
 João Vitor Ramos de Souza
 entradas: dois numeros inteiros
