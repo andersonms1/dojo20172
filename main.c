@@ -19,6 +19,17 @@ João Vitor Ramos de Souza
 entradas: dois numeros inteiros
 saidas: o maior dos numeros
 */
+int maiornumero(int numeroa,int numerob){
+    if(numeroa > numerob){
+      return numeroa;
+    }
+    else if(numerob > numeroa){
+      return numerob;
+    }
+    else{
+      printf("Os numeros sao iguais\n");
+    }
+}
 
 /*
 Victor Alves Gomide
