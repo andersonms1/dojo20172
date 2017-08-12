@@ -37,7 +37,9 @@ Martha Dantas Silva
 entradas: um numero inteiros
 saidas: cubo da entrada
 */
-
+int funcaoCubo (int num) {
+  return(num*num*num);
+}
 /*Exemplo
 entradas: dois numeros
 saidas: media dos numeros
