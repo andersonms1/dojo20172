@@ -8,6 +8,13 @@ entradas: dois numeros inteiros
 saidas: a soma dos numedos
 */
 
+int main(){
+  int num1, num2, soma;
+  soma = num1 + num2;
+  printf("%d %d\n",num1, num2);
+  return 0;
+}
+
 /*
 Wellingthon Diego Resende de Lima
 entradas: dois numeros inteiros
@@ -48,6 +55,5 @@ float media(float num1, float num2){
 }
 
 int main(){
-
     return 0;
 }
